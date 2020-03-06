@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://weazauwae.otai.kr/sitemap.xml
